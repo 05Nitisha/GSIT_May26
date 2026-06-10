@@ -2,4 +2,5 @@
 I am Master 
 Login 
 Payment
+google pay
 
