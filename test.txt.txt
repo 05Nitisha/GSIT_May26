@@ -1,11 +1,4 @@
 
-<<<<<<< HEAD
 I am Master 
-Login 
-Payment
-google pay
+Comment
 
-=======
-Payment
-google pay
->>>>>>> c958c7d (add Goggle Pay)
